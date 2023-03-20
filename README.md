@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 Hello there!<br><br>I am pleased to introduce myself as a Master's degree student in Bioinformatics. <br>Throughout my academic journey, I have worked extensively on Molecular Dynamics using popular software like AutoDock Vina. <br>In addition to this, I am proficient in programming languages such as Python and C++, and I have a good grasp of Bash scripting. <br>My skillset also extends to web development, where I have created websites linked to MySQL databases. <br>Overall, I am passionate about applying computational techniques to solve problems in biology, and I am eager to explore more opportunities in this field.
 
@@ -9,12 +11,13 @@ Hello there!<br><br>I am pleased to introduce myself as a Master's degree studen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Juliencroyable&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliencroyable&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Citation de fou 
+### Insane quote that will change your mind wow ! :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Meme super marrant
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### A funny meme (haha) :
+<img src="https://programmerhumor.io/wp-content/uploads/2022/12/programmerhumor-io-linux-memes-programming-memes-eec89bc476e6598-758x763.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Juliencroyable&icon=1&color=0)](https://visitcount.itsvg.in)
 
+</div> 
